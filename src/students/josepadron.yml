@@ -7,8 +7,8 @@ skin: "orange"
 basic_info:
 
     # Profile information
-    first_name: Nico
-    last_name: Jones
+    first_name: Jose
+    last_name: Padron
     motto: Full Stack Developer
     avatar: https://randomuser.me/api/portraits/man/24.jpg
     summary: |
@@ -25,7 +25,7 @@ basic_info:
     phone: 3050506969
     website: #do not add http://
     linkedin:
-    github:
+    github: josepadron370
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
@@ -34,14 +34,14 @@ basic_info:
         level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
       - item: Learning
 
-      - item: Chiefing
+      - item: Coding
 
-      - item: Scheming
+      - item: Chess
 
 education:
     - degree: MSc in Computer Science
